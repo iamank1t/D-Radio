@@ -30,6 +30,19 @@ Here some feature of D-Radio you what to know about:
 5: As we know that people really like to talk with others than alone. We are introducing a new feature where people can add Friends and other members when # Live just like Discord Voice Channel. This is one feature which everyone will love as I have seen many people very busy in those Voice Channel.
 6: And Much More.
 
+# Roadmap of D-Radio
+As currently our team researching best possible ways to implement a safe a secure broadcasting system for users and the team almost completed their research. Soon [iamankit](www.steemit.com/@iamankit) will start development of web and iOS version of D-Radio. As the project is big and we also sort of funding, so we decided to launch the project in modules. We created a roadmap for D-Radio :-
+* Module 1 - This module is initial release module of project. In this module we make D-Radio live for users to use with basic functionalities. In this module we implement steemconnect, so that users can login with their steem account. We provide basic broadcasting system for users with live audio session support. Users can create a new audio session or join any running live audio session. Language support in this module is English.
+* Module 2 - This is next module which will be launch after some time of module 1. In this module we will add 2 more languages for users. We also implement comments feature in this module, so that users can interact with each other while listening audio session.
+* Module 3 - In this module we will add record audio feature for users, so that they can record their audio session and make it live whenever they want. We also add 2 more languages in app for user fisiability.
+* Module 4 - In this module we will add live video session for users, so that they can share their thoughts with other users more easily. In this module we also implement reputation system for users. This system gives users a different value among other users. We also implement a Request session features in which users can request other users for a audio/video session.
+* Module 5 - In this module we implement download session functionality, so that users can download any session and watch or listen it after also. We also implement reward system in which listeners or viewers can rewards session creater or other users in SBD. Another feature we will add in this module is premium session, in this feature users can request one on one session by paying small fees in SBD with other user because sometimes it will be difficult to express your thoughts when there are too many users in a session.
+
+These are some modules which our team planning to launch as soon as possible. Many more things are also in our roadmap like launching android app, monetization and much more features. But as we all know to make a project great money also needed with effort. We funding project from our side as much we can but that funding is not too much so we also seeking for investors to help us in making D-Radio a revolutionary project.
+
+# What investors get by funding D-Radio
+D-Radio teaam really cares of their investors and we had profitable criteria for our investors. We will provide 150% as return to our investors and also we will reward investors with beneficiary rewards. For more details of this you can contact us at our discord channel.
+
 Logos were designed by [@weberh8](www.steemit.com/@weberh8)
 
 Join Our [Discord](https://discord.gg/6Yc3RFW) Channel for more information.
